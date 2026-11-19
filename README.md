@@ -212,7 +212,3 @@ Desenvolvido por [Kauê Ferreira Gonçalves de Abreu]
 📄 Licença
 
 Este projeto foi desenvolvido para fins educacionais e de portfólio, estando livre para estudo, adaptação e compartilhamento.
-
-<FollowUp>
-Se você quiser enviar as **demais imagens** (como os prints das tabelas `consultas` e `internacoes`, ou os resultados das queries executadas no Workbench), pode mandar aqui que eu ajusto os links e legendas do **README** para você.
-</FollowUp>
