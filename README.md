@@ -121,7 +121,8 @@ CREATE TABLE IF NOT EXISTS prescricoes (
 <summary>Clique para visualizar os prints dos scripts DDL</summary>
 
 * **Tabela `pacientes`:**
-  ![Script Tabela Pacientes](./imagens/create-pacientes.png)
+  ![Script Tabela Pacientes](./imagens/create-pacientes.png<img width="783" height="316" alt="Captura de tela 2026-11-19 112500" src="https://github.com/user-attachments/assets/78f73d9d-764e-4097-9523-94d6511fabfe" />
+)
 
 * **Tabela `medicos`:**
   ![Script Tabela Médicos](./imagens/create-medicos.png)
