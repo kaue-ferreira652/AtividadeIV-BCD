@@ -204,10 +204,9 @@ Cada script deste repositório responde a uma demanda específica da operação 
 
 👨‍💻 Autor
 
-Desenvolvido por [Seu Nome Aqui]
-• LinkedIn: linkedin.com
-• GitHub: github.com
-• E-mail: seu.email@exemplo.com
+Desenvolvido por [Kauê Ferreira Gonçalves de Abreu]
+• GitHub: kaue-ferreira652
+• E-mail: 10kaue981@gmail.com
 
 📄 Licença
 
