@@ -39,7 +39,8 @@ O fluxo de dados do sistema reflete a jornada completa do paciente dentro da uni
 
 O diagrama abaixo ilustra os relacionamentos entre as **6 tabelas** do sistema no MySQL Workbench:
 
-![Diagrama Entidade-Relacionamento (DER)](./imagens/der-gestao-hospitalar.png)
+![Diagrama Entidade-Relacionamento (DER)](./imagens/der-gestao-hospitalar.png<img width="1203" height="737" alt="Captura de tela 2026-11-19 112324" src="https://github.com/user-attachments/assets/a5d91143-0973-43b4-89e5-4ef9c28baa67" />
+)
 *(Nota: Salve a primeira imagem como `der-gestao-hospitalar.png` dentro de uma pasta `imagens` no seu repositório).*
 
 ---
